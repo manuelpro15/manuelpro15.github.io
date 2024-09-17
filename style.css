@@ -1,0 +1,122 @@
+h1 {
+    font-family: "Protest Guerrilla", sans-serif;
+}
+
+h1 {
+    font-size: 30px;
+}
+.titulo {
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+h2 {
+    font-size: 20px;
+    color: white;
+}
+h2 {
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+body {
+    background-color: rgba(56, 5, 122, 0.623);
+    background-image: url(imagen/Nevado-del-Cocuy.jpg);
+    background-image: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+    
+}
+
+
+.link {
+    background-color: black;
+}
+
+
+nav a {
+    text-align: center;
+    font-weight: 600;
+    padding: 15px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+
+div nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 55px;
+    background-color: black;
+}
+
+.date {
+    text-align: center;
+
+}
+.rome {
+    text-align: left;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 55px;
+}
+.rome {
+    color: white;
+}
+.roma {
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 55px;
+}
+.color {
+    color: rgb(255, 255, 255);
+}
+.store {
+    color: rgb(255, 255, 255);
+}
+
+
+.h {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 290px;
+}
+
+.m101 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+}
+.m102 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+    width: 110px;
+}
+.img1000 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 200px;
+    width: 240px;
+}
+.img100 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 200px;
+    width: 240px;
+}
